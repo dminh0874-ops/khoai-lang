@@ -1,0 +1,8 @@
+{
+  "total_transactions": 216960,
+  "anomalies_detected": 10848,
+  "anomaly_percentage": 5.0,
+  "avg_amount": 50090.02510753134,
+  "avg_anomaly_amount": 55568.66497142331,
+  "avg_normal_amount": 49801.67564101072
+}
